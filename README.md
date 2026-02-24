@@ -1,0 +1,1 @@
+# verificadora-de-Anagramas
